@@ -5,9 +5,7 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    // 코드 작성
-    int a,b;
-    cin >> a >> b;
-    cout << a-b;
+
+    cout << "Hello World!" << '\n';
     return 0;
 }
