@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    // 코드 작성
+    string s;
+    int b;
+    cin >> s >> b;
+    cout << s[b-1];
+    return 0;
+}
